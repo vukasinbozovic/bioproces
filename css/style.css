@@ -1,0 +1,113 @@
+body {
+  background-color: #efefef;
+}
+body span {
+  display: block;
+}
+
+/*-------------------HEADER----------------------------*/
+.header {
+  background-color: #47a161;
+}
+
+.navbar-collapse {
+  border: 1px solid white;
+  background-color: #50b26c;
+  margin-bottom: 4px;
+}
+
+.navbar-default {
+  background-color: #47a161;
+}
+
+.borderLine li {
+  border-right: 1px solid white;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.iconPadding li {
+  padding-left: -2px;
+}
+
+/*-------------------END HEADER----------------------------*/
+/*-------------------CONTENT ----------------------------*/
+.frame {
+  border: 1px solid #fffffd;
+  background-color: white;
+  outline: 5px solid white;
+}
+
+.form-group {
+  width: 80%;
+  font-size: 12px;
+}
+.form-group label {
+  font-weight: normal;
+}
+
+.companyL1 {
+  height: 500px;
+  overflow: hidden;
+  background: white;
+}
+
+.companyL2 {
+  overflow: hidden;
+  background: white;
+  margin-top: 2em;
+  border-right: 15px solid #efefef;
+}
+
+.companyR2 {
+  overflow: hidden;
+  background: white;
+  margin-top: 2em;
+}
+
+.companyR2 ul {
+  background: white;
+  display: inline;
+}
+
+.companyR2 h3 {
+  border-bottom: 2px solid #efefef;
+}
+
+.companyR2 ul li {
+  width: 33%;
+  display: inline;
+  list-style-type: none;
+  padding-right: 20px;
+  float: left;
+}
+
+/*-------------------END CONTENT----------------------------*/
+/*-------------------FOOTER----------------------------*/
+.footer {
+  background-color: #47a161;
+  margin-top: 20px;
+}
+
+#map_canvas {
+  width: 85%;
+  height: 300px;
+  background-color: #CCC;
+}
+
+/*.borderTest {
+	border: 5px solid white;
+}
+.okvir {
+	width: 95%;
+	margin: 10px;
+	border: 3px solid white;
+}*/
+.footerMenuline h3 {
+  width: 80%;
+  border-bottom: 1px solid white;
+}
+
+/*-------------------FOOTER----------------------------*/
