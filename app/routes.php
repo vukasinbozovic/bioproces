@@ -15,3 +15,23 @@ Route::get('/', function()
 {
 	return View::make('home.index');
 });
+
+Route::get('/onama', function()
+{
+	return View::make('onama.index');
+});
+
+Route::get('/reference', function()
+{
+	return View::make('reference.index');
+});
+
+Route::get('/galerija', function()
+{
+	return View::make('galerija.index');
+});
+
+Route::get('/kontakt', function()
+{
+	return View::make('kontakt.index');
+});
