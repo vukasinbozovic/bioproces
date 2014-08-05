@@ -2,39 +2,7 @@
 
 @section('content')
 
-  <div class="row">
-    <nav class="navbar navbar-default col-sm-12" role="navigation">
-      <div class="container">
-        <!-- Brand and toggle get grouped for better mobile display -->
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-        </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse">
-          <ul class="nav navbar-nav borderLine ">
-            <li><a href="#">Početna</a></li>
-            <li><a href="#">O nama</a></li>
-            <li><a href="#">Proizvodi</a></li>
-            <li><a href="#">Reference</a></li>
-            <li><a href="#">Kontakt</a></li>
-
-          </ul>
-          <ul class="nav navbar-nav navbar-right iconPadding">
-            <li><a href="#"><img src="img/icons/facebook.png" alt="Facebook icon"></a></li>
-            <li><a href="#"><img src="img/icons/twitter.png" alt="Twitter icon"></a></li>
-            <li><a href="#"><img src="img/icons/google.png" alt="Google+ icon"></a></li>
-            <li><a href="#"><img src="img/icons/linked_in.png" alt="LinkedIN icon"></a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container-fluid -->
-    </nav>
-  </div>
 
   <div class="row first">
     <div class="col-sm-8 slider ">
